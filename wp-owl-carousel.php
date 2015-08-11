@@ -4,10 +4,10 @@ i<?php
  *
  * @link              http://studio.croati.co
  * @since             1.0.0
- * @package           WP_Carousel
+ * @package           WP_Owl_Carousel
  *
  * @wordpress-plugin
- * Plugin Name:	      WP Carousel
+ * Plugin Name:	      WP Owl Carousel
  * Description:       Simple carousel based on jquery Owl carousel
  * Plugin URI:        http://studio.croati.co
  * Version:           1.0.0
@@ -15,7 +15,7 @@ i<?php
  * Author URI:        http://studio.croati.co
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       wp-carousel
+ * Text Domain:       wp-owl-carousel
  * Domain Path:       /languages
  */
 
