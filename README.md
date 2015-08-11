@@ -1,5 +1,14 @@
-=== wp-carousel-textslider ===
+## wp-carousel
 
-== quotations shortcode plugin for Wordpress ==
+### owl carousel shortcode plugin for Wordpress
+
+Usage - as shortcode.
+
+Activate plugin
+Create some quotations (admin sidebar menu) with "content" & "author" custom fields & publish
+Use [wp_carousel] shortcode
+
+
+
 
 
